@@ -6,9 +6,9 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#4F46E5"
     },
@@ -25,10 +25,11 @@
       },
       "edgeToEdgeEnabled": true,
       "permissions": [
-        "CAMERA",
-        "ACCESS_FINE_LOCATION",
-        "ACCESS_COARSE_LOCATION",
-        "READ_MEDIA_IMAGES"
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "web": {
@@ -48,6 +49,12 @@
           "locationAlwaysAndWhenInUsePermission": "LocaPic butuh akses lokasi untuk mencatat titik check-in kamu."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3932e48a-c295-4642-a0d5-59c5d5f8a2af"
+      }
+    },
+    "owner": "stephanizz"
   }
 }
