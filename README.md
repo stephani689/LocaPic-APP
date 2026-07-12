@@ -11,27 +11,11 @@ Sekali tap, aplikasi ini mengambil foto (kamera/galeri) dan otomatis mengunci ko
 
 | Tampilan Awal | Setelah Ambil Foto | Detail Lokasi |
 |---|---|---|
-| ![Tampilan Awal](./assets/01-Awal.jpeg) | ![Input Foto](./assets/02-input.jpeg) | ![Info APK](./assets/03-Info.jpeg) | ![Lokasi](./assets/03-reset.jpeg) |
+| ![Tampilan Awal](./assets/Awal.jpeg) | ![Input Foto](./assets/Input.jpeg) | ![Info APK](./assets/Info.jpeg) | ![Lokasi](./assets/Reset.jpeg) |
 
 > Screenshot APK terinstall di HP fisik ada di folder [`screenshots/`](./assets/APK.jpeg).
 
----
 
-## 🌐 Coba Online (Expo Snack) — Bonus B
-
-Kamu bisa mencoba versi interaktif aplikasi ini langsung dari browser, tanpa install apapun, lewat **Expo Snack**:
-
-👉 **[Buka di Expo Snack](https://snack.expo.dev/@stephani/locapic)**
-
-> ⚠️ Ganti link di atas dengan link Snack milikmu sendiri. Cara membuatnya:
-> 1. Buka [snack.expo.dev](https://snack.expo.dev) dan login pakai akun Expo yang sama dengan EAS
-> 2. Copy isi `App.js` dari proyek ini ke editor Snack
-> 3. Tambahkan dependency yang dipakai lewat panel kiri: `expo-image-picker`, `expo-location`, `@react-native-async-storage/async-storage`, `expo-constants`, `expo-linear-gradient`
-> 4. Klik **Save**, lalu **My Snacks** → copy link publiknya
-> 5. Scan QR code Snack pakai Expo Go untuk uji coba fitur kamera & GPS secara langsung di HP (preview browser tidak mendukung akses kamera/GPS native)
-> 6. Tempel link final Snack kamu di README ini
-
----
 
 ## ✨ Fitur Utama
 
