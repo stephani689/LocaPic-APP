@@ -6,14 +6,15 @@ Dibuat sebagai proyek portofolio untuk mata kuliah *Software Testing and Impleme
 Sekali tap, aplikasi ini mengambil foto (kamera/galeri) dan otomatis mengunci koordinat GPS kamu, lalu menyimpannya secara persisten di HP — bahkan setelah aplikasi ditutup.
 
 ---
-
 ## 📱 Screenshot
 
-| Tampilan Awal | Setelah Ambil Foto | Info APK | | Detail Lokasi |
-|---|---|---|---|
-| ![Tampilan Awal](./assets/Awal.jpeg) | ![Input Foto](./assets/Input.jpeg) | ![Info APK](./assets/Info.jpeg) | ![Lokasi](./assets/Reset.jpeg) |
+| Tampilan Awal | Setelah Ambil Foto | Info APK | Detail Lokasi |
+|---------------|--------------------|----------|----------------|
+| <img src="./assets/Awal.jpeg" width="220"> | <img src="./assets/Input.jpeg" width="220"> | <img src="./assets/Info.jpeg" width="220"> | <img src="./assets/Reset.jpeg" width="220"> |
 
-> Screenshot APK terinstall di HP fisik ada di folder [`screenshots/`](./assets/APK.jpeg).
+### Tampilan APK
+
+<img src="./assets/APK.jpeg" width="250">
 
 
 
@@ -45,7 +46,7 @@ Sekali tap, aplikasi ini mengambil foto (kamera/galeri) dan otomatis mengunci ko
 
 ## 📥 Cara Install APK
 
-1. Download APK dari EAS dashboard: **[Link APK di sini]**
+1. Download APK dari EAS dashboard: **[[Link APK di sini](https://expo.dev/accounts/stephanizz/projects/locapic/builds/2073429b-f1f2-44ce-b164-c1bcdf33a055)]**
 2. Transfer/download file `.apk` ke HP Android kamu
 3. Buka file APK-nya — jika muncul peringatan "Install dari sumber tidak dikenal", aktifkan izin tersebut di pengaturan
 4. Tap **Install**, tunggu selesai
@@ -91,7 +92,7 @@ locapic/
 ├── index.js
 ├── package.json
 ├── assets/                # Icon, splash, dan asset gambar
-└── screenshots/           # Bukti build & instalasi APK
+
 ```
 
 ---
