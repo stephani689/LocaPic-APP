@@ -11,7 +11,7 @@ Sekali tap, aplikasi ini mengambil foto (kamera/galeri) dan otomatis mengunci ko
 
 | Tampilan Awal | Setelah Ambil Foto | Detail Lokasi |
 |---|---|---|
-| ![Tampilan Awal](./screenshots/01-Awal.jpeg) | ![Input Foto](./assets/02-input.jpeg) | ![Info APK](./screenshots/03-Info.jpeg) | ![Lokasi](./screenshots/03-reset.jpeg) |
+| ![Tampilan Awal](./assets/01-Awal.jpeg) | ![Input Foto](./assets/02-input.jpeg) | ![Info APK](./assets/03-Info.jpeg) | ![Lokasi](./assets/03-reset.jpeg) |
 
 > Screenshot APK terinstall di HP fisik ada di folder [`screenshots/`](./assets/APK.jpeg).
 
