@@ -173,3 +173,4 @@ Ditampilkan di dua tempat:
 
 Dibuat oleh Stephani — Universitas Prima Indonesia.
 
+"# LocaPic-APP" 
